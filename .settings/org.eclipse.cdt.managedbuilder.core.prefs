@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/CPATH/delimiter=;
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/CPATH/operation=remove
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/append=true
+environment/buildEnvironmentInclude/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/appendContributed=true
+environment/buildEnvironmentLibrary/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/append=true
+environment/buildEnvironmentLibrary/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.715590305/appendContributed=true
